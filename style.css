@@ -183,6 +183,12 @@ i {
 .about-content img {
   max-width: 570px;
 }
+.about-content h2 {
+  text-align: center;
+}
+.about-content p {
+  text-align: center;
+}
 
 .about-content div {
   flex: 1;
