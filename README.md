@@ -15,13 +15,13 @@ Landing page de uma barbearia, onde podemos consultar valores e fazer o agendame
 
 # Link
 
-https://projeto-barbearia-mauve.vercel.app/
+* https://projeto-barbearia-mauve.vercel.app/
 
 
 ## 👷 Autores
 
 * **Sujeito Programador** - *Autor do projeto* - [@sujeitoprogramador](https://github.com/devfraga)
-* **Abediaslor** - *Aluno do projeto*  
+* **AbediasLOR** - *Aluno do projeto*  
 
 
 ## 💡 Expressões de gratidão
